@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "101",
+      "title": "Getting Started with Web Development",
+      "body": "Web development is the process of building websites and web applications. It involves frontend technologies like HTML, CSS, and JavaScript, as well as backend technologies such as Node.js, databases, and APIs. Beginners should focus on understanding how the web works before jumping into frameworks.",
+      "author": "aryan"
+    },
+    {
+      "id": "102",
+      "title": "Why APIs Matter",
+      "body": "APIs allow different systems to communicate with each other. They help developers reuse existing services, improve security, and speed up development. Most modern applications rely heavily on REST or GraphQL APIs to function efficiently.",
+      "author": "yoshi"
+    },
+    {
+      "id": "103",
+      "title": "Learning Programming Effectively",
+      "body": "Instead of trying to learn everything at once, focus on the core concepts that give maximum results. Applying the Pareto Principle helps learners become productive faster by mastering the most frequently used features first.",
+      "author": "guest"
+    }
+  ]
+}
